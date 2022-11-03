@@ -1,0 +1,42 @@
+<head>
+<title>Mon Anniversaire</title>
+<style media="screen">
+body{ background-color:rosybrown;
+}
+h1{
+color: marron;
+margin-left:40px;}
+h2{
+color: red;
+margin-left: 0px;
+}
+</style>
+</head>
+</body>
+<div style="text-align: center"></div><h1> C'est mon anniversaire
+<h1> je vous aime tous </h1>
+<img src="anniversaire.jpg"
+
+<h1><a href="malistedecadeau.html"> < voici mes cadeaux</a></h1
+<h2> Mes gouts changent, tiens-toi au courant.
+</h2>
+
+<form action=" method="get" class="form-example">
+<div class="form-example">
+<label for="prenom">Entrez votre prenom: </label>
+<imput type="email" name="prenom" id="email" required>
+</div>
+</div> class="form-example">
+<label for="nom">Entrez votre nom: </label>
+<imput type="email" name="nom de famille" id="email" required>
+</div>
+
+<div class="form-example">
+<label for="email">Entrez votre email: </label>
+<imput type="email" name="email" id="email" required>
+</div>
+</div class="form-example">
+<imput type="submit" value="go!">
+</div>
+</form>
+<body>
